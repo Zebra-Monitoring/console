@@ -1,4 +1,4 @@
-Remote.irc.com
-Check our remote code!
-You can have a personal console. :)
+Remote.irc.com<br/>
+Check our remote code!<br/>
+You can have a personal console. :)<br/>
 https://remotes.irc.com
